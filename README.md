@@ -23,25 +23,18 @@ Built using **CrewAI**, it provides fast, structured, and reliable legal assista
   Simple input → complete legal output.
 
 ---
-
 ## 📸 Screenshots
 
-Below are a few screenshots showcasing LegalSaathi in action.
-
 ### 🖼️ Home Interface
-![Home Interface](home.png)
-
-### 🧠 AI Output Preview
-![Output Preview](screenshots/output.png)
+![Home Interface](screenshots/home.png)
 
 ---
 
-### 📸 Side-by-Side Preview (Optional)
+### 🧠 AI Output (Part 1)
+![Output Part 1](screenshots/output_1.png)
 
-<p align="center">
-  <img src="screenshots/home.png" width="45%" alt="Home Screen"/>
-  <img src="screenshots/output.png" width="45%" alt="Output Screen"/>
-</p>
+### 🧠 AI Output (Part 2)
+![Output Part 2](screenshots/output_2.png)
 
 ---
 
@@ -83,6 +76,7 @@ Below are a few screenshots showcasing LegalSaathi in action.
 ├── output_2.png
 ├── output_3.png
 └── README.md
+```
 
 ## 🤝 Contributing
 
