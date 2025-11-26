@@ -1,4 +1,4 @@
-# 📘 LegalSaathi — AI-Powered Legal Support Assistant
+# 📘 Lexi.Ai — AI-Powered Legal Support Assistant
 
 **LegalSaathi** is an AI-driven legal-support tool designed to help users quickly generate complaint drafts, identify relevant IPC sections, and fetch precedent case suggestions.  
 Built using **CrewAI**, it provides fast, structured, and reliable legal assistance tailored for Indian legal scenarios.
