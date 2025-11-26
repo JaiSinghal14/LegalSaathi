@@ -26,15 +26,15 @@ Built using **CrewAI**, it provides fast, structured, and reliable legal assista
 ## 📸 Screenshots
 
 ### 🖼️ Home Interface
-![Home Interface](screenshots/home.png)
+![Home Interface](home.png)
 
 ---
 
 ### 🧠 AI Output (Part 1)
-![Output Part 1](screenshots/output_1.png)
+![Output Part 1](output_1.png)
 
 ### 🧠 AI Output (Part 2)
-![Output Part 2](screenshots/output_2.png)
+![Output Part 2](output_2.png)
 
 ---
 
